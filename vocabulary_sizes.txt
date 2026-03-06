@@ -1,0 +1,7 @@
+Step,Token Size,Vocabulary Size
+Raw,105094,11516
+To Lower,105094,9407
+Remove Punctuation & Digits,81939,7354
+Remove Stopwords,47270,7217
+Lemmatization,47270,6713
+Remove Domain Stopwords,36619,6229

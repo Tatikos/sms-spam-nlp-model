@@ -1,0 +1,10 @@
+u,1151
+call,658
+go,455
+get,447
+ur,391
+come,303
+free,278
+know,275
+ok,267
+like,259

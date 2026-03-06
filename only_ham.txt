@@ -1,0 +1,10 @@
+gt,318
+lt,316
+ü,173
+lor,162
+da,150
+later,135
+said,89
+amp,88
+morn,81
+sleep,79

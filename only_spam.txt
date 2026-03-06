@@ -1,0 +1,10 @@
+claim,115
+prize,94
+tone,74
+guarante,51
+cs,41
+rington,34
+entri,26
+mob,25
+poli,25
+weekli,24
